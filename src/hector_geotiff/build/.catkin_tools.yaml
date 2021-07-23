@@ -1,0 +1,6 @@
+devel_space: /home/nandakishor/hector_slam/hector_geotiff/devel
+install: false
+install_space: /home/nandakishor/hector_slam/hector_geotiff/install
+profile: default
+source_space: /home/nandakishor/hector_slam/hector_geotiff/src
+workspace: /home/nandakishor/hector_slam/hector_geotiff
