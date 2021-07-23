@@ -11,3 +11,6 @@ source devel/setup.bash
 ```
 # 3D prints
 Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files.
+
+# Connection
+![alt text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
