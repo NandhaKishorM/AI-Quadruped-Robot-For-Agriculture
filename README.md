@@ -1,4 +1,9 @@
 # AI-Quadruped-Robot-For-Agriculture
+## Problem statement
+Massive investment on agro-chemicals from the farmers’ end on crops for protection against crop health issues, diseases and pest attacks, leading to high chemical residue content in the final produce, thus reducing the quality of the produce, productivity and polluting the farm-environment.
+
+## Solution
+An AI vision based quadruped robot with robotic arm to effectively spray pesticides/insecticides on the crops. The cutting edge **spatial-AI OpenCV depth cameras(OAK-D)** are integrated to the quadruped robot to detect the crop & its location, along with- a **robotic arm** to precisely spray pesticides/insecticides on the crop.
 
 <img src="screenshots/img1.gif" width="480" height="640"/>
 
@@ -19,13 +24,13 @@ source devel/setup.bash
 ```
 If you find errors during catkin build install necessary libraries or directly copy the libraries to **/src/** folder and re run catkin_build
 
-# 3D prints
+## 3D prints
 Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files.
 
-# Connection
+## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
 
-# Inbuilt OAK-D IMU utilization
+## Inbuilt OAK-D IMU utilization
 
 <img src="screenshots/img4.gif" width="480" height="640"/>
 
