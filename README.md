@@ -18,7 +18,7 @@ After installing ROS melodic on Nvidia Jetson Nano, run,
 git clone https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture.git
 source /opt/ros/kinetic/setup.bash 
 mkdir -p ~/catkin_temp  
-cp -a /path/to/src/from AI-Quadruped-Robot-For-Agriculture/ ~/catkin_temp/
+cp -a /path/to/AI-Quadruped-Robot-For-Agriculture/src/ ~/catkin_temp/
 catkin build
 source devel/setup.bash
 ```
