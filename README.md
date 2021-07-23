@@ -27,6 +27,6 @@ Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D p
 
 # Connection
 
-<img src="schematics.png" width="480" height="640"/>
+<img src="schematics.png" width="1080" height="2080"/>
 
 
