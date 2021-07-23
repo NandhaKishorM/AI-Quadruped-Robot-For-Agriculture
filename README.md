@@ -1,6 +1,6 @@
 # AI-Quadruped-Robot-For-Agriculture
 
-<img src="screenshots/img1.gif" width="250" height="250"/>
+<img src="screenshots/img1.gif" width="640" height="480"/>
 
 # Software Installation - Agribot V1.0
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
