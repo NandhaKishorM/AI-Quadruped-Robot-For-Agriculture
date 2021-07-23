@@ -27,5 +27,6 @@ Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D p
 
 # Connection
 
-![alt text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
+<img src="schematics.png" width="480" height="640"/>
+
 
