@@ -2,6 +2,14 @@
 
 <img src="screenshots/img1.gif" width="640" height="480"/>
 
+<img src="screenshots/img2.gif" width="640" height="480"/>
+
+<img src="screenshots/img3.gif" width="640" height="480"/>
+
+<img src="screenshots/img4.gif" width="640" height="480"/>
+
+<img src="screenshots/img5.gif" width="640" height="480"/>
+
 # Software Installation - Agribot V1.0
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
 After installing ROS melodic on Nvidia Jetson Nano, run,
@@ -18,4 +26,6 @@ If you find errors during catkin build install necessary libraries or directly c
 Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files.
 
 # Connection
-![alt text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
+
+<img src="schematics.png" width="640" height="480"/>
+
