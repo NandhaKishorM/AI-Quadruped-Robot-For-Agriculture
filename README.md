@@ -31,10 +31,13 @@ Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D p
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
 
 ## Inbuilt OAK-D IMU utilization
+Run
+
+```sh
+python gyro visualization
+```
 
 <img src="screenshots/img4.gif" width="480" height="640"/>
 
 <img src="screenshots/img5.gif" width="480" height="640"/>
-```sh
-python gyro visualization
-```
+
