@@ -26,7 +26,6 @@ If you find errors during catkin build install necessary libraries or directly c
 Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files.
 
 # Connection
-
-<img src="schematics.png" width="1080" height="2080"/>
+![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
 
 
