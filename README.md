@@ -5,11 +5,14 @@ Massive investment on agro-chemicals from the farmers’ end on crops for protec
 ## Solution
 An AI vision based quadruped robot with robotic arm to effectively spray pesticides/insecticides on the crops. The cutting edge **spatial-AI OpenCV depth cameras(OAK-D)** are integrated to the quadruped robot to detect the crop & its location, along with- a **robotic arm** to precisely spray pesticides/insecticides on the crop.
 
-<img src="screenshots/img1.gif" width="480" height="640"/>
 
-<img src="screenshots/img2.gif" width="480" height="640"/>
+https://user-images.githubusercontent.com/48623612/127535646-96b2c777-e888-43cb-af1a-77d663f8487b.mp4
 
-<img src="screenshots/img3.gif" width="480" height="640"/>
+
+
+https://user-images.githubusercontent.com/48623612/127535906-9ffb2053-86a3-4153-b496-3118d2ea1060.mp4
+
+
 
 # Software Installation - Agribot V1.0
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
@@ -37,7 +40,8 @@ Run
 python gyro visualization
 ```
 
-<img src="screenshots/img4.gif" width="480" height="640"/>
 
-<img src="screenshots/img5.gif" width="480" height="640"/>
+https://user-images.githubusercontent.com/48623612/127535856-a1a527a5-7e4c-46dc-a450-e32995b7074e.mp4
+
+
 
