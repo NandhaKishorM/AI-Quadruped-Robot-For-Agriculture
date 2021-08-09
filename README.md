@@ -8,7 +8,9 @@ An AI vision based quadruped robot with robotic arm to effectively spray pestici
 connect the OAK-D to the host
 ```sh
 python spatial_mobilenet.py
+
 ```
+## Demo
 
 https://user-images.githubusercontent.com/48623612/127535646-96b2c777-e888-43cb-af1a-77d663f8487b.mp4
 
