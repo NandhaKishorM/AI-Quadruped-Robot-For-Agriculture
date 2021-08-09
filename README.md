@@ -6,6 +6,7 @@ Massive investment on agro-chemicals from the farmers’ end on crops for protec
 An AI vision based quadruped robot with robotic arm to effectively spray pesticides/insecticides on the crops. The cutting edge **spatial-AI OpenCV depth cameras(OAK-D)** are integrated to the quadruped robot to detect the crop & its location, along with- a **robotic arm** to precisely spray pesticides/insecticides on the crop.
 # Software Installation - Agribot V1.0
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
+The default implementation is on **Raspberry Pi 3 Model B and ROS kinetic**, since we used **Nvidia Jetson Nano** we invest some time on migrating to **ROS melodic**.
 After installing ROS melodic on Nvidia Jetson Nano, run,
 ```sh
 git clone https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture.git
