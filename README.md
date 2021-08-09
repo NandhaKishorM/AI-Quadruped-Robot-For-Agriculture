@@ -4,13 +4,30 @@ Massive investment on agro-chemicals from the farmers’ end on crops for protec
 
 ## Solution
 An AI vision based quadruped robot with robotic arm to effectively spray pesticides/insecticides on the crops. The cutting edge **spatial-AI OpenCV depth cameras(OAK-D)** are integrated to the quadruped robot to detect the crop & its location, along with- a **robotic arm** to precisely spray pesticides/insecticides on the crop.
-
+### Test OAK-D
+connect the OAK-D to the host
+```sh
+python spatial_mobilenet.py
+```
 
 https://user-images.githubusercontent.com/48623612/127535646-96b2c777-e888-43cb-af1a-77d663f8487b.mp4
 
 
 
 https://user-images.githubusercontent.com/48623612/127535906-9ffb2053-86a3-4153-b496-3118d2ea1060.mp4
+
+
+
+https://user-images.githubusercontent.com/48623612/128687662-2845c66a-45d7-49c7-8cf9-19cea187af5c.mp4
+
+### Pest detection
+```sh
+python spatial_mobilenet_custom.py
+```
+
+https://user-images.githubusercontent.com/48623612/128687701-b083d103-eadc-473b-9224-a60476207a92.mp4
+
+
 
 
 
