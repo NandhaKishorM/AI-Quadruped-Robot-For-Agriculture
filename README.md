@@ -18,7 +18,7 @@ source devel/setup.bash
 If you find errors during catkin build install necessary libraries or directly copy the libraries to **/src/** folder and re run catkin_build
 
 ## 3D prints
-Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files.
+Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files. We made slight modification due to stability and structural issues in the default print.
 
 ## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
