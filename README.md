@@ -3,7 +3,8 @@
 Massive investment on agro-chemicals from the farmers’ end on crops for protection against crop health issues, diseases and pest attacks, leading to high chemical residue content in the final produce, thus reducing the quality of the produce, productivity and polluting the farm-environment.
 
 ## Solution
-An AI vision based quadruped robot with robotic arm to effectively spray pesticides/insecticides on the crops. The cutting edge **spatial-AI OpenCV depth cameras(OAK-D)** are integrated to the quadruped robot to detect the crop & its location, along with- a **robotic arm** to precisely spray pesticides/insecticides on the crop.
+For the farmers cultivating crops, an **OAK-D enabled quadruped robot** with **robotic arm** to effectively spray **water/pesticides/insecticides** on the crops by identifying the **crop or the pests**, thus saving farmers investment on agrochemicals and water, utilizing the depth capability to detect the pest and analyze the pest infection in the process.
+
 # Software Installation - Agribot V1.0
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
 The default implementation is on **Raspberry Pi 3 Model B and ROS kinetic**, since we used **Nvidia Jetson Nano** we invest some time on migrating to **ROS melodic**.
