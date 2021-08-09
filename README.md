@@ -22,7 +22,7 @@ If you find errors during catkin build install necessary libraries or directly c
 Go to this [link](https://www.thingiverse.com/thing:3445283) for spot micro 3D print files. We made slight modification due to stability and structural issues in the default print.
 
 ### Arm
-The files are under the /folder Arm 3D print stl files/
+The files are under the folder /Arm 3D print stl files/
 
 ## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
