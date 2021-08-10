@@ -29,7 +29,12 @@ The files are under the folder /Arm 3D print stl files/
 ## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
 ## The Robotic Arm
-![alt text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/arm_doc/1622900229364.jpeg)
+<p float="left">
+  <img src="/arm_doc/1622900229364.jpeg" width="100" />
+  <img src="/arm_doc/1622899821254.jpeg" width="100" /> 
+  <img src="/arm_doc/1620652142487.jpeg" width="100" />
+</p>
+
 
 ### Test OAK-D
 connect the OAK-D to the host
