@@ -62,10 +62,13 @@ https://user-images.githubusercontent.com/48623612/127535906-9ffb2053-86a3-4153-
 https://user-images.githubusercontent.com/48623612/128687662-2845c66a-45d7-49c7-8cf9-19cea187af5c.mp4
 
 ### Pest detection
+#### Test
 ```sh
 python spatial_mobilenet_custom.py
 ```
-
+#### Train
+Open the Colab link and run the cells.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_K5FxxWU_yEn9JHKa6AOHjoY5Z5Prclv?usp=sharing)
 
 https://user-images.githubusercontent.com/48623612/128688979-6633d1d9-b441-4c8c-9f94-d753bce6091c.mp4
 
