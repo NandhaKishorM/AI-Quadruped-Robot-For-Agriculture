@@ -29,10 +29,17 @@ The files are under the folder /Arm 3D print stl files/
 ## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
 ## The Robotic Arm
+Connect as per the diagram and control the Raspberry Pi Zero W through VNC and run,
+```sh
+python arm_and_spray.py
+```
+In this script it calculates angles for servo motors using IK and also starts the DC motor pump after getting the x,y,z location data from OAK-D.
+
 <p float="left">
   <img src="/arm_doc/1622900229364.jpeg" width="480" />
   <img src="/arm_doc/1622899821254.jpeg" width="480" /> 
   <img src="/arm_doc/1620652142487.jpeg" width="480" />
+    <img src="/arm_doc/inverse_kinematics.jpg" width="480" />
 </p>
 
 
