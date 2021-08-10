@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/48623612/128687662-2845c66a-45d7-49c7-
 python spatial_mobilenet_custom.py
 ```
 #### Train
-Open the Colab link and run the cells.
+Pest detection TensorFlow 1.x pipeline
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_K5FxxWU_yEn9JHKa6AOHjoY5Z5Prclv?usp=sharing)
 
 https://user-images.githubusercontent.com/48623612/128688979-6633d1d9-b441-4c8c-9f94-d753bce6091c.mp4
