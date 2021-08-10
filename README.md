@@ -28,7 +28,7 @@ The files are under the folder /Arm 3D print stl files/
 
 ## Connection
 ![at text](https://github.com/kishorkuttan/AI-Quadruped-Robot-For-Agriculture/blob/master/schematics.png)
-## The Robotic Arm
+## The Robotic Arm And Sprayer System
 Connect as per the diagram and control the Raspberry Pi Zero W through VNC and run,
 ```sh
 python arm_and_spray.py
