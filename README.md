@@ -1,6 +1,6 @@
 # AI-Quadruped-Robot-For-Agriculture
 ## Problem statement
-Massive investment on agro-chemicals from the farmers’ end on crops for protection against crop health issues, diseases and pest attacks, leading to high chemical residue content in the final produce, thus reducing the quality of the produce, productivity and polluting the farm-environment.
+Massive investment on agrochemicals from the farmers’ end on crops for protection against crop health issues, diseases, and pest attacks, leading to high chemical residue content in the final product, thus reducing the quality of the produce, productivity, and polluting the farm environment. Also large use of water into crops leading to unwanted wastage of water.
 
 ## Solution
 For the farmers cultivating crops, an **OAK-D enabled quadruped robot** with **robotic arm** to effectively spray **water/pesticides/insecticides** on the crops by identifying the **crop or the pests**, thus saving farmers investment on agrochemicals and water, utilizing the depth capability to detect the pest and analyze the pest infection in the process.
