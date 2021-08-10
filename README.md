@@ -5,7 +5,7 @@ Massive investment on agro-chemicals from the farmers’ end on crops for protec
 ## Solution
 For the farmers cultivating crops, an **OAK-D enabled quadruped robot** with **robotic arm** to effectively spray **water/pesticides/insecticides** on the crops by identifying the **crop or the pests**, thus saving farmers investment on agrochemicals and water, utilizing the depth capability to detect the pest and analyze the pest infection in the process.
 
-# Software Installation - Agribot V1.0
+# Software Installation - Agribot
 We followed the GitHub repo by Mike4192 for this version. Go to this [link](https://github.com/mike4192/spotMicro) to learn more.
 The default implementation is on **Raspberry Pi 3 Model B and ROS kinetic**, since we used **Nvidia Jetson Nano** we invested some time on migrating to **ROS melodic**.
 After installing ROS melodic on Nvidia Jetson Nano, run,
